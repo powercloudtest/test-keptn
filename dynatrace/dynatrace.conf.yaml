@@ -7,7 +7,7 @@ attachRules:
     tags:
     - context: CONTEXTLESS
       key: keptn_project
-      value: sockshop
+      value: prueba
     - context: CONTEXTLESS
       key: keptn_service
       value: carts
