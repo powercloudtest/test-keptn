@@ -55,7 +55,7 @@ spec:
             - name: "release"
         - name: "remediation"
           triggeredOn:
-            - event: "production.remediation.finished"
+            - event: "produccion.remediation.finished"
               selector:
                 match:
                   evaluation.result: "fail"
