@@ -15,6 +15,9 @@ spec:
                   #properties:
                   #teststrategy: "performance"
             - name: "evaluation"
+              properties:
+                timeframe: "15m"
+
             - name: "release"
         - name: "delivery-direct"
           tasks:
